@@ -4,3 +4,4 @@ welcome to delta
 courses offered:
  backend
  frontend
+ solutions
