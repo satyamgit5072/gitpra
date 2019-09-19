@@ -5,3 +5,5 @@ courses offered:
  backend
  frontend
  solutions
+
+Thank you for choosing deltaschool
