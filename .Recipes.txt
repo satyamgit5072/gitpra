@@ -5,7 +5,16 @@ courses offered:
  backend
  frontend
  solutions
+ 
+ Datascience
+ Cyber
+ 
+ 
 
 Thank you for choosing deltaschool
 
+
+Done my changes.
+
 final decision
+
